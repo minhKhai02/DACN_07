@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản Lý Thời Gian Biểu</string>
+    <string name="app_launcher_name">Lịch</string>
+    <string name="change_view">Thay đổi góc nhìn</string>
+    <string name="daily_view">Xem hàng ngày</string>
+    <string name="weekly_view">Xem hàng tuần</string>
+    <string name="monthly_view">Lượt xem hàng tháng</string>
+    <string name="monthly_daily_view">Chế độ xem hàng tháng và hàng ngày</string>
+    <string name="yearly_view">Xem hàng năm</string>
+    <string name="simple_event_list">Danh sách sự kiện đơn giản</string>
+    <string name="no_upcoming_events">Không có sự kiện sắp tới.</string>
+    <string name="go_to_today">Tới ngày hôm nay</string>
+    <string name="go_to_date">Đi đến ngày</string>
+
+    <!-- Widget titles -->
+    <string name="widget_monthly">Lịch hàng tháng</string>
+    <string name="widget_list">Danh sách sự kiện lịch</string>
+    <string name="widget_todays_date">Lịch ngày hôm nay</string>
+
+    <!-- Event -->
+    <string name="event">Sự kiện</string>
+    <string name="edit_event">Chỉnh sửa sự kiện</string>
+    <string name="new_event">Sự kiện mới</string>
+    <string name="create_new_event">Tạo một sự kiện mới</string>
+    <string name="duplicate_event">Sự kiện trùng lặp</string>
+    <string name="title_empty">Tiêu đề không thể trống</string>
+    <string name="end_before_start">Sự kiện không thể kết thúc sớm hơn thời điểm nó bắt đầu</string>
+    <string name="event_added">Đã thêm sự kiện thành công</string>
+    <string name="event_updated">Sự kiện được cập nhật thành công</string>
+    <string name="filter_events_by_type">Lọc sự kiện theo loại</string>
+    <string name="please_fill_location">Vui lòng điền vào một vị trí sẽ được hiển thị trên bản đồ</string>
+    <string name="public_event_notification_text">Một sự kiện sắp diễn ra</string>
+    <string name="everything_filtered_out">Bạn đã lọc ra tất cả các loại sự kiện</string>
+    <string name="event_color">Màu sự kiện</string>
+    <string name="default_calendar_color">Màu lịch mặc định</string>
+
+    <!-- Tasks -->
+    <string name="task">Nhiệm vụ</string>
+    <string name="tasks">Nhiệm vụ</string>
+    <string name="edit_task">Chỉnh sửa tác vụ</string>
+    <string name="new_task">Nhiệm vụ mới</string>
+    <string name="create_new_task">Tạo một nhiệm vụ mới</string>
+    <string name="duplicate_task">Nhiệm vụ trùng lặp</string>
+    <string name="mark_completed">Đánh dấu là đã hoàn thành</string>
+    <string name="mark_incomplete">Đánh dấu là chưa hoàn thành</string>
+    <string name="task_color">Màu nhiệm vụ</string>
+
+    <!-- Event Repetition -->
+    <string name="repetition">Sự lặp lại</string>
+    <string name="no_repetition">Không lặp lại</string>
+    <string name="daily">Hằng ngày</string>
+    <string name="weekly">Hàng tuần</string>
+    <string name="monthly">Hàng tháng</string>
+    <string name="yearly">Hàng năm</string>
+    <string name="weeks_raw">tuần</string>
+    <string name="months_raw">tháng</string>
+    <string name="years_raw">năm</string>
+    <string name="repeat_till">Lặp lại cho đến khi</string>
+    <string name="forever">Mãi mãi</string>
+    <string name="event_is_repeatable">Sự kiện có thể lặp lại</string>
+    <string name="task_is_repeatable">Nhiệm vụ có thể lặp lại</string>
+    <string name="selection_contains_repetition">Lựa chọn chứa các sự kiện lặp lại</string>
+    <string name="delete_one_only">Chỉ xóa lần xuất hiện đã chọn</string>
+    <string name="delete_future_occurrences">Xóa điều này và tất cả các lần xuất hiện trong tương lai</string>
+    <string name="delete_all_occurrences">Xóa tất cả các lần xuất hiện</string>
+    <string name="update_one_only">Chỉ cập nhật lần xuất hiện đã chọn</string>
+    <string name="update_this_and_future_occurrences">Cập nhật điều này và tất cả các lần xuất hiện trong tương lai</string>
+    <string name="update_all_occurrences">Cập nhật tất cả các lần xuất hiện</string>
+    <string name="repeat_till_date">Lặp lại cho đến một ngày</string>
+    <string name="stop_repeating_after_x">Dừng lặp lại sau x lần xuất hiện</string>
+    <string name="repeat_forever">Lặp lại mãi mãi</string>
+    <string name="times">lần</string>
+    <string name="repeat">Lặp lại</string>
+    <string name="repeat_on">Lặp lại trên</string>
+    <string name="selected_days">Vào những ngày đã chọn</string>
+    <string name="the_same_day">Cùng ngày</string>
+    <string name="the_last_day">Ngày cuối cùng</string>
+    <string name="repeat_on_the_same_day_monthly">Lặp lại vào cùng một ngày mỗi tháng</string>
+    <string name="repeat_on_the_last_day_monthly">Lặp lại vào ngày cuối cùng của tháng</string>
+    <string name="repeat_on_the_same_day_yearly">Lặp lại vào cùng một ngày hàng năm</string>
+    <string name="repeat_every_m">Lặp lại mỗi</string>
+    <string name="every_m">Mọi</string>
+    <string name="first_m">Đầu tiên</string>
+    <string name="second_m">thứ hai</string>
+    <string name="third_m">ngày thứ ba</string>
+    <string name="fourth_m">thứ tư</string>
+    <string name="fifth_m">thứ năm</string>
+    <string name="last_m">cuối cùng</string>
+
+    <!-- alternative versions for some languages, use the same translations if you are not sure what this means -->
+    <!-- used in repetition, like "Every first Sunday" -->
+    <string name="repeat_every_f">Lặp lại mỗi</string>
+    <string name="every_f">Mọi</string>
+    <string name="first_f">Đầu tiên</string>
+    <string name="second_f">thứ hai</string>
+    <string name="third_f">ngày thứ ba</string>
+    <string name="fourth_f">thứ tư</string>
+    <string name="fifth_f">thứ năm</string>
+    <string name="last_f">cuối cùng</string>
+
+    <!-- Birthdays -->
+    <string name="birthdays">Sinh nhật</string>
+    <string name="add_birthdays">Thêm ngày sinh nhật của liên hệ</string>
+    <string name="no_birthdays">Không tìm thấy ngày sinh nhật</string>
+    <string name="no_new_birthdays">Không tìm thấy ngày sinh nhật mới</string>
+    <string name="birthdays_added">Đã thêm sinh nhật thành công</string>
+    <string name="add_birthdays_automatically">Tự động thêm ngày sinh nhật mới</string>
+
+    <!-- Anniversaries -->
+    <string name="anniversaries">Ngày kỷ niệm</string>
+    <string name="add_anniversaries">Thêm ngày kỷ niệm liên lạc</string>
+    <string name="no_anniversaries">Không tìm thấy ngày kỷ niệm nào</string>
+    <string name="no_new_anniversaries">Không tìm thấy ngày kỷ niệm mới</string>
+    <string name="anniversaries_added">Ngày kỷ niệm được thêm thành công</string>
+    <string name="add_anniversaries_automatically">Tự động thêm ngày kỷ niệm mới</string>
+
+    <!-- Event Reminders -->
+    <string name="reminder">Lời nhắc nhở</string>
+    <string name="before">trước</string>
+    <string name="add_another_reminder">Thêm lời nhắc khác</string>
+    <string name="event_reminders">Lời nhắc sự kiện</string>
+    <string name="reminders">Lời nhắc</string>
+
+    <!-- Event attendees -->
+    <string name="add_another_attendee">Thêm người tham dự khác</string>
+    <string name="my_status">Trạng thái của tôi:</string>
+    <string name="going">Đang đi</string>
+    <string name="not_going">Không đi</string>
+    <string name="maybe_going">Có lẽ đi</string>
+    <string name="invited">Được mời</string>
+
+    <!-- Time zones -->
+    <string name="enter_a_country">Nhập quốc gia hoặc múi giờ</string>
+
+
+    <!-- Export / Import -->
+    <string name="import_events">Nhập sự kiện</string>
+    <string name="export_events">Xuất sự kiện</string>
+    <string name="import_events_from_ics">Nhập sự kiện từ tệp .ics</string>
+    <string name="import_events_from_ics_pro">Nhập sự kiện từ tệp .ics (Pro)</string>
+    <string name="export_events_to_ics">Xuất sự kiện sang tệp .ics</string>
+    <string name="default_event_type">Loại sự kiện mặc định</string>
+    <string name="export_past_events_too">Xuất cả các sự kiện trong quá khứ</string>
+    <string name="export_tasks">Xuất ghi chú</string>
+    <string name="export_past_entries">Xuất các mục trước đây quá</string>
+    <string name="include_event_types">Bao gồm các loại sự kiện</string>
+    <string name="filename_without_ics">Tên tệp (không có .ics)</string>
+    <string name="ignore_event_types">Bỏ qua các loại sự kiện trong tệp, luôn sử dụng loại mặc định</string>
+
+    <!-- Event details -->
+    <string name="location">Vị trí</string>
+    <string name="description">Mô tả</string>
+    <string name="all_day">Cả ngày</string>
+
+    <!-- Weekly view -->
+    <string name="week">Tuần</string>
+    <string name="start_week_with_current_day">Bắt đầu tuần với ngày hiện tại</string>
+
+
+    <!-- Event types -->
+    <string name="event_types">Các loại sự kiện</string>
+    <string name="add_new_type">Thêm một loại mới</string>
+    <string name="edit_type">Chỉnh sửa loại</string>
+    <string name="type_already_exists">Loại có tiêu đề này đã tồn tại</string>
+    <string name="color">Màu</string>
+    <string name="regular_event">Sự kiện thường xuyên</string>
+    <string name="cannot_delete_default_type">Không thể xóa loại sự kiện mặc định</string>
+    <string name="select_event_type">Chọn loại sự kiện</string>
+    <string name="move_events_into_default">Di chuyển các sự kiện bị ảnh hưởng vào loại sự kiện mặc định</string>
+    <string name="remove_affected_events">Xóa vĩnh viễn các sự kiện bị ảnh hưởng</string>
+    <string name="unsync_caldav_calendar">Để xóa lịch CalDAV, bạn phải hủy đồng bộ hóa lịch đó</string>
+
+
+    <!-- Holidays -->
+    <string name="holidays">Ngày lễ</string>
+    <string name="add_holidays">Thêm ngày lễ</string>
+    <string name="national_holidays">ngày lễ quốc gia</string>
+    <string name="religious_holidays">Ngày lễ tôn giáo</string>
+    <string name="holidays_imported_successfully">Ngày lễ đã được nhập thành công vào loại sự kiện \"Ngày lễ\"</string>
+    <string name="importing_some_holidays_failed">Nhập một số sự kiện không thành công</string>
+    <string name="importing_holidays_failed">nhập ngày lễ không thành công</string>
+
+
+    <!-- Settings -->
+    <string name="manage_event_types">Quản lý các loại sự kiện</string>
+    <string name="start_day_at">Bắt đầu ngày lúc</string>
+    <string name="end_day_at">Ngày kết thúc lúc</string>
+    <string name="midnight_spanning">Hiển thị các sự kiện kéo dài suốt nửa đêm ở thanh trên cùng</string>
+    <string name="allow_customizing_day_count">Cho phép tùy chỉnh số ngày</string>
+    <string name="week_numbers">Hiển thị số tuần</string>
+    <string name="vibrate">Rung khi có thông báo nhắc nhở</string>
+    <string name="reminder_sound">Âm thanh nhắc nhở</string>
+    <string name="no_ringtone_picker">Không tìm thấy ứng dụng nào có thể cài đặt nhạc chuông</string>
+    <string name="no_ringtone_selected">Không có</string>
+    <string name="day_end_before_start">Một ngày không thể kết thúc sớm hơn khi nó bắt đầu</string>
+    <string name="caldav_sync">Đồng bộ hóa CalDAV</string>
+    <string name="event_lists">Danh sách sự kiện</string>
+    <string name="display_past_events">Hiển thị các sự kiện trong quá khứ</string>
+    <string name="replace_description_with_location">Thay thế mô tả sự kiện bằng vị trí</string>
+    <string name="display_description_or_location">Hiển thị mô tả hoặc vị trí</string>
+    <string name="delete_all_events">Xóa tất cả sự kiện</string>
+    <string name="delete_all_events_and_tasks">Xóa tất cả các sự kiện và ghi chú</string>
+    <string name="delete_all_events_confirmation">Bạn có chắc chắn muốn xóa tất cả các sự kiện và ghi chú không? Điều này sẽ giữ nguyên các loại sự kiện và các cài đặt khác của bạn.</string>
+    <string name="show_a_grid">Hiển thị lưới</string>
+    <string name="loop_reminders">Lặp lại lời nhắc cho đến khi bị loại bỏ</string>
+    <string name="dim_past_events">Làm mờ các sự kiện trong quá khứ</string>
+    <string name="dim_completed_tasks">Làm mờ nhiệm vụ đã hoàn thành</string>
+    <string name="events">Sự kiện</string>
+    <string name="reminder_stream">Luồng âm thanh được lời nhắc sử dụng</string>
+    <string name="system_stream">Hệ thống</string>
+    <string name="alarm_stream">Báo thức</string>
+    <string name="notification_stream">Thông báo</string>
+    <string name="ring_stream">Chuông</string>
+    <string name="use_last_event_reminders">Sử dụng lời nhắc về các sự kiện gần đây nhất làm mặc định cho các sự kiện mới</string>
+    <string name="default_reminder_1">Lời nhắc mặc định 1</string>
+    <string name="default_reminder_2">Lời nhắc mặc định 2</string>
+    <string name="default_reminder_3">Lời nhắc mặc định 3</string>
+    <string name="view_to_open_from_widget">Xem để mở từ tiện ích danh sách sự kiện</string>
+    <string name="last_view">Lần xem cuối cùng</string>
+    <string name="new_events">Sự kiện mới</string>
+    <string name="default_start_time">Thời gian bắt đầu mặc định</string>
+    <string name="next_full_hour">Toàn bộ giờ tiếp theo</string>
+    <string name="current_time">Thời điểm hiện tại</string>
+    <string name="default_duration">Thời lượng mặc định</string>
+    <string name="last_used_one">Cái được sử dụng lần cuối</string>
+    <string name="other_time">Lúc khác</string>
+    <string name="highlight_weekends">Làm nổi bật những ngày cuối tuần trên một số chế độ xem</string>
+    <string name="highlight_weekends_color">Sắc màu nổi bật cuối tuần</string>
+    <string name="allow_changing_time_zones">Cho phép thay đổi múi giờ sự kiện</string>
+    <string name="manage_quick_filter_event_types">Quản lý các loại sự kiện lọc nhanh</string>
+    <string name="allow_creating_tasks">Cho phép tạo tác vụ</string>
+
+
+    <!-- CalDAV sync -->
+    <string name="caldav">CalDAV</string>
+    <string name="select_caldav_calendars">chọn lịch để đồng bộ</string>
+    <string name="manage_synced_calendars">Quản lý lịch được đồng bộ hóa</string>
+    <string name="store_locally_only">Chỉ lưu trữ cục bộ</string>
+    <string name="refresh_caldav_calendars">Làm mới lịch CalDAV</string>
+    <string name="refreshing">Đang làm mới…</string>
+    <string name="refreshing_complete">Làm mới hoàn tất</string>
+    <string name="editing_calendar_failed">Chỉnh sửa lịch không thành công</string>
+    <string name="syncing">Đang đồng bộ hóa…</string>
+    <string name="synchronization_completed">Đồng bộ hóa đã hoàn tất</string>
+    <string name="select_a_different_caldav_color">Chọn một màu khác (có thể chỉ được áp dụng cục bộ)</string>
+    <string name="insufficient_permissions">Bạn không được phép viết vào lịch đã chọn</string>
+    <string name="caldav_event_not_found">Không tìm thấy sự kiện. Vui lòng bật đồng bộ hóa CalDAV cho lịch thích hợp trong cài đặt ứng dụng.</string>
+    <string name="no_synchronized_calendars">Không tìm thấy lịch đồng bộ hóa nào</string>
+    <string name="status_free">Miễn phí</string>
+    <string name="status_busy">Bận</string>
+    <string name="fetching_event_failed">Tìm nạp sự kiện %s không thành công</string>
+
+    <!-- alternative versions for some languages, use the same translations if you are not sure what this means -->
+    <!-- used in repetition, like "Every last Sunday" -->
+    <string name="monday_alt">Thứ 2</string>
+    <string name="tuesday_alt">Thứ 3</string>
+    <string name="wednesday_alt">Thứ 4</string>
+    <string name="thursday_alt">Thứ 5</string>
+    <string name="friday_alt">Thứ 6</string>
+    <string name="saturday_alt">Thứ 7</string>
+    <string name="sunday_alt">Chủ nhật</string>
+
+    <!-- List widget config example events -->
+    <string name="sample_title_1">Tập thể dục</string>
+    <string name="sample_description_1">Leg day</string>
+    <string name="sample_title_2">Meeting with John</string>
+    <string name="sample_description_2">In Rockstone garden</string>
+    <string name="sample_title_3">Library</string>
+    <string name="sample_title_4">Lunch with Mary</string>
+    <string name="sample_description_4">In the Plaza</string>
+    <string name="sample_title_5">Coffee time</string>
+
+    <!-- List widget config -->
+    <string name="show_events_happening">Show events happening:</string>
+    <string name="within_the_next_one_year">Trong vòng 1 năm tới</string>
+    <string name="today_only">Chỉ hôm nay</string>
+    <string name="within_the_next">Trong vòng tiếp theo…</string>
+    <plurals name="within_the_next_days">
+        <item quantity="one">Within the next %d day</item>
+        <item quantity="other">Within the next %d days</item>
+    </plurals>
+    <plurals name="within_the_next_weeks">
+        <item quantity="one">Within the next %d week</item>
+        <item quantity="other">Within the next %d weeks</item>
+    </plurals>
+    <plurals name="within_the_next_months">
+        <item quantity="one">Within the next %d month</item>
+        <item quantity="other">Within the next %d months</item>
+    </plurals>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Làm cách nào tôi có thể xóa ngày nghỉ đã nhập qua nút \"Thêm ngày lễ\"?</string>
+    <string name="faq_1_text">Ngày lễ được tạo theo cách đó sẽ được chèn vào loại sự kiện mới có tên là \"Ngày lễ\". Bạn có thể vào Cài đặt -> Quản lý loại sự kiện, nhấn và giữ loại sự kiện đã cho và xóa nó bằng cách chọn thùng rác.</string>
+    <string name="faq_2_title">Tôi có thể đồng bộ hóa các sự kiện của mình qua Lịch Google hoặc dịch vụ khác hỗ trợ CalDAV không?</string>
+    <string name="faq_2_title_extra">Thậm chí có thể chia sẻ lịch với người khác?</string>
+    <string name="faq_2_text">Có, chỉ cần bật \"Đồng bộ hóa CalDAV\" trong cài đặt ứng dụng và chọn lịch bạn muốn đồng bộ hóa. Tuy nhiên, bạn sẽ cần một số ứng dụng của bên thứ ba xử lý việc đồng bộ hóa giữa thiết bị và máy chủ. Trong trường hợp bạn muốn đồng bộ hóa lịch Google, ứng dụng Lịch chính thức của họ sẽ thực hiện công việc này. Đối với các lịch khác, bạn sẽ cần bộ điều hợp đồng bộ hóa của bên thứ ba, ví dụ DAVx5.</string>
+    <string name="faq_3_title">Tôi nhìn thấy lời nhắc bằng hình ảnh nhưng không nghe thấy âm thanh. Tôi có thể làm gì?</string>
+    <string name="faq_3_text">Không chỉ hiển thị lời nhắc thực tế mà việc phát âm thanh cũng bị ảnh hưởng rất nhiều bởi hệ thống. Nếu bạn không thể nghe thấy bất kỳ âm thanh nào, hãy thử vào cài đặt ứng dụng, nhấn tùy chọn \"Luồng âm thanh được lời nhắc sử dụng\" và thay đổi nó thành một giá trị khác. Nếu nó vẫn không hoạt động, hãy kiểm tra cài đặt âm thanh của bạn nếu luồng cụ thể không bị tắt tiếng.</string>
+    <string name="faq_4_title">Ứng dụng có hỗ trợ múi giờ không?</string>
+    <string name="faq_4_text">Vâng, nó có. Theo mặc định, tất cả các sự kiện được tạo theo múi giờ hiện tại của bạn. Nếu muốn thay đổi múi giờ của sự kiện, trước tiên bạn phải bật bộ chọn múi giờ ở cài đặt ứng dụng, sau đó thay đổi ở màn hình Chi tiết sự kiện. Nó bị tắt theo mặc định vì hầu hết mọi người sẽ không cần nó.</string>
+    <string name="faq_5_title">Ứng dụng không hiển thị thông báo, tại sao vậy?</string>
+    <string name="faq_5_text">Kiểm tra cài đặt thông báo và pin của thiết bị, nếu không có gì chặn lời nhắc hoặc tắt ứng dụng ở chế độ nền. Bạn cũng có thể muốn xem &lt;a href=https://dontkillmyapp.com&gt;https://dontkillmyapp.com&lt;/a&gt;, trang này có một số mẹo hữu ích.</string>
+    <string name="faq_6_title">Làm cách nào tôi có thể sửa đổi hoặc xóa loại sự kiện hiện có?</string>
+    <string name="faq_6_text">Bạn có thể thực hiện cả hai điều đó trong Cài đặt ứng dụng - Quản lý loại sự kiện. Chỉ cần nhấp vào mục mong muốn để thay đổi nhãn và màu sắc, hoặc chọn mục mong muốn bằng cách nhấn và giữ nó và sử dụng thùng rác ở menu trên cùng để xóa.</string>
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

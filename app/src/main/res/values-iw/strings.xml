@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lịch đơn giản</string>
+    <string name="app_launcher_name">Lịch</string>
+    <string name="change_view">Thay đổi góc nhìn</string>
+    <string name="daily_view">Xem hàng ngày</string>
+    <string name="weekly_view">Xem hàng tuần</string>
+    <string name="monthly_view">Lượt xem hàng tháng</string>
+    <string name="monthly_daily_view">Chế độ xem hàng tháng và hàng ngày</string>
+    <string name="yearly_view">Xem hàng năm</string>
+    <string name="simple_event_list">Danh sách sự kiện đơn giản</string>
+    <string name="no_upcoming_events">Không có sự kiện sắp tới.</string>
+    <string name="go_to_today">Tới ngày hôm nay</string>
+    <string name="go_to_date">Đi đến ngày</string>
+    <!-- Widget titles -->
+    <string name="widget_monthly">Lịch hàng tháng</string>
+    <string name="widget_list">Danh sách sự kiện lịch</string>
+    <string name="widget_todays_date">Lịch ngày hôm nay</string>
+    <!-- Event -->
+    <string name="event">Sự kiện</string>
+    <string name="edit_event">Chỉnh sửa sự kiện</string>
+    <string name="new_event">Sự kiện mới</string>
+    <string name="create_new_event">Tạo một sự kiện mới</string>
+    <string name="duplicate_event">Sự kiện trùng lặp</string>
+    <string name="title_empty">Tiêu đề không thể trống</string>
+    <string name="end_before_start">Sự kiện không thể kết thúc sớm hơn thời điểm nó bắt đầu</string>
+    <string name="event_added">Đã thêm sự kiện thành công</string>
+    <string name="event_updated">Sự kiện được cập nhật thành công</string>
+    <string name="filter_events_by_type">Lọc sự kiện theo loại</string>
+    <string name="please_fill_location">Vui lòng điền vào một vị trí sẽ được hiển thị trên bản đồ</string>
+    <string name="public_event_notification_text">Một sự kiện sắp diễn ra</string>
+    <string name="everything_filtered_out">Bạn đã lọc ra tất cả các loại sự kiện</string>
+    <string name="event_color">Màu sự kiện</string>
+    <string name="default_calendar_color">Màu lịch mặc định</string>
+    <!-- Tasks -->
+    <string name="task">Nhiệm vụ</string>
+    <string name="tasks">Nhiệm vụ</string>
+    <string name="edit_task">Chỉnh sửa tác vụ</string>
+    <string name="new_task">Nhiệm vụ mới</string>
+    <string name="create_new_task">Tạo một nhiệm vụ mới</string>
+    <string name="duplicate_task">Nhiệm vụ trùng lặp</string>
+    <string name="mark_completed">Đánh dấu là đã hoàn thành</string>
+    <string name="mark_incomplete">Đánh dấu là chưa hoàn thành</string>
+    <string name="task_color">Màu nhiệm vụ</string>
+    <!-- Event Repetition -->
+    <string name="repetition">Sự lặp lại</string>
+    <string name="no_repetition">Không lặp lại</string>
+    <string name="daily">Hằng ngày</string>
+    <string name="weekly">Hàng tuần</string>
+    <string name="monthly">Hàng tháng</string>
+    <string name="yearly">Hàng năm</string>
+    <string name="weeks_raw">tuần</string>
+    <string name="months_raw">tháng</string>
+    <string name="years_raw">năm</string>
+    <string name="repeat_till">Lặp lại cho đến khi</string>
+    <string name="forever">Mãi mãi</string>
+    <string name="event_is_repeatable">Sự kiện có thể lặp lại</string>
+    <string name="task_is_repeatable">Nhiệm vụ có thể lặp lại</string>
+    <string name="selection_contains_repetition">Lựa chọn chứa các sự kiện lặp lại</string>
+    <string name="delete_one_only">Chỉ xóa lần xuất hiện đã chọn</string>
+    <string name="delete_future_occurrences">Xóa điều này và tất cả các lần xuất hiện trong tương lai</string>
+    <string name="delete_all_occurrences">Xóa tất cả các lần xuất hiện</string>
+    <string name="update_one_only">Chỉ cập nhật lần xuất hiện đã chọn</string>
+    <string name="update_this_and_future_occurrences">Cập nhật điều này và tất cả các lần xuất hiện trong tương lai</string>
+    <string name="update_all_occurrences">Cập nhật tất cả các lần xuất hiện</string>
+    <string name="repeat_till_date">Lặp lại cho đến một ngày</string>
+    <string name="stop_repeating_after_x">Dừng lặp lại sau x lần xuất hiện</string>
+    <string name="repeat_forever">Lặp lại mãi mãi</string>
+    <string name="times">lần</string>
+    <string name="repeat">Lặp lại</string>
+    <string name="repeat_on">Lặp lại trên</string>
+    <string name="selected_days">Vào những ngày đã chọn</string>
+    <string name="the_same_day">Cùng ngày</string>
+    <string name="the_last_day">Ngày cuối cùng</string>
+    <string name="repeat_on_the_same_day_monthly">חזור באותו יום בכל חודש</string>
+    <string name="repeat_on_the_last_day_monthly">חזור ביום האחרון בחודש</string>
+    <string name="repeat_on_the_same_day_yearly">חזור באותו יום כל שנה</string>
+    <string name="repeat_every_m">חזור כל</string>
+    <string name="every_m">כל</string>
+    <string name="first_m">ראשון</string>
+    <string name="second_m">שני</string>
+    <string name="third_m">שלישי</string>
+    <string name="fourth_m">רביעי</string>
+    <string name="fifth_m">חמישי</string>
+    <string name="last_m">אחרון</string>
+    <!-- alternative versions for some languages, use the same translations if you are not sure what this means -->
+    <!-- used in repetition, like "Every first Sunday" -->
+    <string name="repeat_every_f">חזרה כל</string>
+    <string name="every_f">כל</string>
+    <string name="first_f">ראשונה</string>
+    <string name="second_f">שניה</string>
+    <string name="third_f">שלישית</string>
+    <string name="fourth_f">רביעית</string>
+    <string name="fifth_f">חמישי</string>
+    <string name="last_f">אחרונה</string>
+    <!-- Birthdays -->
+    <string name="birthdays">ימי הולדת</string>
+    <string name="add_birthdays">הוסף ימי הולדת מאנשי קשר</string>
+    <string name="no_birthdays">לא נמצאו ימי הולדת</string>
+    <string name="no_new_birthdays">לא נמצאו ימי הולדת חדשים</string>
+    <string name="birthdays_added">ימי הולדת הוספו בהצלחה</string>
+    <string name="add_birthdays_automatically">הוסף ימי הולדת חדשים באופן אוטומטי</string>
+    <!-- Anniversaries -->
+    <string name="anniversaries">ימי שנה</string>
+    <string name="add_anniversaries">הוסף ימי שנה מאנשי קשר</string>
+    <string name="no_anniversaries">לא נמצאו ימי שנה</string>
+    <string name="no_new_anniversaries">לא נמצאו ימי שנה חדשים</string>
+    <string name="anniversaries_added">ימי שנה הוספו בהצלחה</string>
+    <string name="add_anniversaries_automatically">הוסף ימי נישואין חדשים באופן אוטומטי</string>
+    <!-- Event Reminders -->
+    <string name="reminder">תזכורת</string>
+    <string name="before">לפני</string>
+    <string name="add_another_reminder">הוסף תזכורת נוספת</string>
+    <string name="event_reminders">תזכורות לאירוע</string>
+    <string name="reminders">Reminders</string>
+    <!-- Event attendees -->
+    <string name="add_another_attendee">הוסף משתתף נוסף</string>
+    <string name="my_status">הסטטוס שלי:</string>
+    <string name="going">מגיע</string>
+    <string name="not_going">לא מגיע</string>
+    <string name="maybe_going">אולי מגיע</string>
+    <string name="invited">מוזמן</string>
+    <!-- Time zones -->
+    <string name="enter_a_country">הזן מדינה או אזור זמן</string>
+    <!-- Export / Import -->
+    <string name="import_events">ייבוא אירועים</string>
+    <string name="export_events">ייצוא אירועים</string>
+    <string name="import_events_from_ics">ייבוא אירועים מקובץ .ics</string>
+    <string name="import_events_from_ics_pro">ייבוא אירועים מקובץ .ics (Pro)</string>
+    <string name="export_events_to_ics">ייצוא אירועים אל קובץ .ics</string>
+    <string name="default_event_type">סוג אירוע ברירת מחדל</string>
+    <string name="export_past_events_too">ייצוא אירועי עבר בנוסף</string>
+    <string name="export_tasks">Export tasks</string>
+    <string name="export_past_entries">Export past entries too</string>
+    <string name="include_event_types">כלול סוגי אירוע</string>
+    <string name="filename_without_ics">שם הקובץ (ללא סיומת .ics)</string>
+    <string name="ignore_event_types">התעלם מסוגי אירועים בקובץ, השתמש תמיד בברירת המחדל</string>
+    <!-- Event details -->
+    <string name="location">מיקום</string>
+    <string name="description">תיאור</string>
+    <string name="all_day">כל היום</string>
+    <!-- Weekly view -->
+    <string name="week">שבוע</string>
+    <string name="start_week_with_current_day">התחל את השבוע עם היום הנוכחי</string>
+    <!-- Event types -->
+    <string name="event_types">סוגי אירוע</string>
+    <string name="add_new_type">הוסף סוג חדש</string>
+    <string name="edit_type">ערוך סוג</string>
+    <string name="type_already_exists">סוג בשם זה כבר קיים</string>
+    <string name="color">צבע</string>
+    <string name="regular_event">אירוע רגיל</string>
+    <string name="cannot_delete_default_type">לא ניתן למחוק סוג אירוע שהוא ברירת המחדל</string>
+    <string name="select_event_type">בחר סוג אירוע</string>
+    <string name="move_events_into_default">העבר אירועים אלו לסוג אירוע ברירת המחדל</string>
+    <string name="remove_affected_events">מחק אירועים אלו לצמיתות</string>
+    <string name="unsync_caldav_calendar">כדי להסיר יומן CalDAV צריך להוציא אותו מסנכרון</string>
+    <!-- Holidays -->
+    <string name="holidays">חגים</string>
+    <string name="add_holidays">Thêm ngày lễ</string>
+    <string name="national_holidays">Ngày lễ quốc gia</string>
+    <string name="religious_holidays">חגים דתיים</string>
+    <string name="holidays_imported_successfully">חגים הוספו בהצלחה לתוך סוג אירוע \"חגים\"</string>
+    <string name="importing_some_holidays_failed">חלק מהאירועים נכשלו בייבוא</string>
+    <string name="importing_holidays_failed">ייבוא החגים נכשל</string>
+    <!-- Settings -->
+    <string name="manage_event_types">נהל סוגי אירועים</string>
+    <string name="start_day_at">שעת התחלה היום</string>
+    <string name="end_day_at">שעת סיום היום</string>
+    <string name="midnight_spanning">Show e‫‫‪vents spanning across midnight at the top bar</string>
+    <string name="allow_customizing_day_count">‫אפשר התאמה אישית של ספירת הימים</string>
+    <string name="week_numbers">הצגת מספרי שבועות</string>
+    <string name="vibrate">רטט בהתרעת תזכורת</string>
+    <string name="reminder_sound">צליל תזכורת</string>
+    <string name="no_ringtone_picker">לא נמצא יישומון להגדרת צלצול</string>
+    <string name="no_ringtone_selected">אין</string>
+    <string name="day_end_before_start">היום לא יכול להיגמר לפני שהתחיל</string>
+    <string name="caldav_sync">CalDAV סנכרון</string>
+    <string name="event_lists">רשימות אירועים</string>
+    <string name="display_past_events">הצגת אירועים מהעבר</string>
+    <string name="replace_description_with_location">החלפת תיאור האירוע עם מיקום</string>
+    <string name="display_description_or_location">הצג תיאור או מיקום</string>
+    <string name="delete_all_events">מחיקת כל האירועים</string>
+    <string name="delete_all_events_and_tasks">Delete all events and tasks</string>
+    <string name="delete_all_events_confirmation">למחוק את כל האירועים\? סוגי האירועים והגדרות נוספות יישמרו.</string>
+    <string name="show_a_grid">תצוגת רשת</string>
+    <string name="loop_reminders">תזכורות לולאה עד להדחה</string>
+    <string name="dim_past_events">עמעם אירועי עבר</string>
+    <string name="dim_completed_tasks">עמום השלים משימות</string>
+    <string name="events">אירועים</string>
+    <string name="reminder_stream">זרם אודיו בשימוש על ידי תזכורות</string>
+    <string name="system_stream">מערכת</string>
+    <string name="alarm_stream">Alarm</string>
+    <string name="notification_stream">התרעה</string>
+    <string name="ring_stream">צלצול</string>
+    <string name="use_last_event_reminders">השתמש בתזכורות של האירועים האחרונים כברירת מחדל עבור אירועים חדשים</string>
+    <string name="default_reminder_1">תזכורת ברירת מחדל 1</string>
+    <string name="default_reminder_2">תזכורת ברירת מחדל 2</string>
+    <string name="default_reminder_3">תזכורת ברירת מחדל 3</string>
+    <string name="view_to_open_from_widget">הצג לפתיחה מהווידג\'ט של רשימת האירועים</string>
+    <string name="last_view">תצוגה אחרונה</string>
+    <string name="new_events">אירועים חדשים</string>
+    <string name="default_start_time">ברירת מחדל של זמן התחלה</string>
+    <string name="next_full_hour">שעה מלאה הבאה</string>
+    <string name="current_time">זמן נוכחי</string>
+    <string name="default_duration">ברירת מחדל של משך הזמן</string>
+    <string name="last_used_one">שימוש אחרון</string>
+    <string name="other_time">‏להפסיק חזרה אחרי x פעמים.‏</string>
+    <string name="highlight_weekends">הדגש סופי שבוע בחלק מהתצוגות</string>
+    <string name="highlight_weekends_color">צבע של סופי שבוע מודגשים</string>
+    <string name="allow_changing_time_zones">אפשר לשנות אזורי זמן של אירועים</string>
+    <string name="manage_quick_filter_event_types">נהל סוגי אירועי סינון מהירים</string>
+    <string name="allow_creating_tasks">אפשר יצירת משימות</string>
+    <!-- CalDAV sync -->
+    <string name="caldav">CalDAV</string>
+    <string name="select_caldav_calendars">בחר יומנים לסנכרון</string>
+    <string name="manage_synced_calendars">ניהול יומנים מסונכרנים</string>
+    <string name="store_locally_only">שמירה מקומית בלבד</string>
+    <string name="refresh_caldav_calendars">רענן יומני CalDAV</string>
+    <string name="refreshing">מרענן…</string>
+    <string name="refreshing_complete">הרענון הסתיים</string>
+    <string name="editing_calendar_failed">עריכת היומן נכשלה</string>
+    <string name="syncing">מסתנכרן…</string>
+    <string name="synchronization_completed">הסנכרון הסתיים</string>
+    <string name="select_a_different_caldav_color">בחירת צבע שונה (ייתכן שיישמר מקומית בלבד)</string>
+    <string name="insufficient_permissions">לא קיימת הרשאת כתיבה ליומנים הנבחרים</string>
+    <string name="caldav_event_not_found">האירוע לא נמצא. אנא הפעל את סנכרון CalDAV עבור היומן המתאים בהגדרות האפליקציה.</string>
+    <string name="no_synchronized_calendars">לא נמצאו לוחות שנה הניתנים לסנכרון</string>
+    <string name="status_free">Free</string>
+    <string name="status_busy">עסוק</string>
+    <string name="fetching_event_failed">Fetching event %s failed</string>
+    <!-- alternative versions for some languages, use the same translations if you are not sure what this means -->
+    <!-- used in repetition, like "Every last Sunday" -->
+    <string name="monday_alt">Thứ 2</string>
+    <string name="tuesday_alt">Thứ 3</string>
+    <string name="wednesday_alt">Thứ 4</string>
+    <string name="thursday_alt">Thứ 5</string>
+    <string name="friday_alt">Thứ 6</string>
+    <string name="saturday_alt">Thứ 7</string>
+    <string name="sunday_alt">Chủ nhật</string>
+    <!-- List widget config example events -->
+    <string name="sample_title_1">Tập thể dục</string>
+    <string name="sample_description_1">ראש השנה</string>
+    <string name="sample_title_2">פגישה עם יוני</string>
+    <string name="sample_description_2">בכיכר רבין</string>
+    <string name="sample_title_3">ספרייה</string>
+    <string name="sample_title_4">ארוחת צהריים עם מרים</string>
+    <string name="sample_description_4">במלון</string>
+    <string name="sample_title_5">הפסקת קפה</string>
+    <!-- List widget config -->
+    <string name="show_events_happening">הצג אירועים שקורים:</string>
+    <string name="within_the_next_one_year">Trong vòng 1 năm tới</string>
+    <string name="today_only">Chỉ hôm nay</string>
+    <string name="within_the_next">Trong vòng tiếp theo…</string>
+    <plurals name="within_the_next_days">
+        <item quantity="one">Within the next %d day</item>
+        <item quantity="other">Within the next %d days</item>
+    </plurals>
+    <plurals name="within_the_next_weeks">
+        <item quantity="one">Within the next %d week</item>
+        <item quantity="other">Within the next %d weeks</item>
+    </plurals>
+    <plurals name="within_the_next_months">
+        <item quantity="one">Within the next %d month</item>
+        <item quantity="other">Within the next %d months</item>
+    </plurals>
+    <!-- FAQ -->
+    <string name="faq_1_title">Làm cách nào tôi có thể xóa ngày nghỉ đã nhập qua nút \"Thêm ngày lễ\"?</string>
+    <string name="faq_1_text">Ngày lễ được tạo theo cách đó sẽ được chèn vào loại sự kiện mới có tên là \"Ngày lễ\". Bạn có thể vào Cài đặt -> Quản lý loại sự kiện, nhấn và giữ loại sự kiện đã cho và xóa nó bằng cách chọn thùng rác.</string>
+    <string name="faq_2_title">Tôi có thể đồng bộ hóa các sự kiện của mình qua Lịch Google hoặc dịch vụ khác hỗ trợ CalDAV không?</string>
+    <string name="faq_2_title_extra">Thậm chí có thể chia sẻ lịch với người khác?</string>
+    <string name="faq_2_text">Có, chỉ cần bật \"Đồng bộ hóa CalDAV\" trong cài đặt ứng dụng và chọn lịch bạn muốn đồng bộ hóa. Tuy nhiên, bạn sẽ cần một số ứng dụng của bên thứ ba xử lý việc đồng bộ hóa giữa thiết bị và máy chủ. Trong trường hợp bạn muốn đồng bộ hóa lịch Google, ứng dụng Lịch chính thức của họ sẽ thực hiện công việc này. Đối với các lịch khác, bạn sẽ cần bộ điều hợp đồng bộ hóa của bên thứ ba, ví dụ DAVx5.</string>
+    <string name="faq_3_title">Tôi nhìn thấy lời nhắc bằng hình ảnh nhưng không nghe thấy âm thanh. Tôi có thể làm gì?</string>
+    <string name="faq_3_text">Không chỉ hiển thị lời nhắc thực tế mà việc phát âm thanh cũng bị ảnh hưởng rất nhiều bởi hệ thống. Nếu bạn không thể nghe thấy bất kỳ âm thanh nào, hãy thử vào cài đặt ứng dụng, nhấn tùy chọn \"Luồng âm thanh được lời nhắc sử dụng\" và thay đổi nó thành một giá trị khác. Nếu nó vẫn không hoạt động, hãy kiểm tra cài đặt âm thanh của bạn nếu luồng cụ thể không bị tắt tiếng.</string>
+    <string name="faq_4_title">Ứng dụng có hỗ trợ múi giờ không?</string>
+    <string name="faq_4_text">Vâng, nó có. Theo mặc định, tất cả các sự kiện được tạo theo múi giờ hiện tại của bạn. Nếu muốn thay đổi múi giờ của sự kiện, trước tiên bạn phải bật bộ chọn múi giờ ở cài đặt ứng dụng, sau đó thay đổi ở màn hình Chi tiết sự kiện. Nó bị tắt theo mặc định vì hầu hết mọi người sẽ không cần nó.</string>
+    <string name="faq_5_title">Ứng dụng không hiển thị thông báo, tại sao vậy?</string>
+    <string name="faq_5_text">Kiểm tra cài đặt thông báo và pin của thiết bị, nếu không có gì chặn lời nhắc hoặc tắt ứng dụng ở chế độ nền. Bạn cũng có thể muốn xem &lt;a href=https://dontkillmyapp.com&gt;https://dontkillmyapp.com&lt;/a&gt;, trang này có một số mẹo hữu ích.</string>
+    <string name="faq_6_title">Làm cách nào tôi có thể sửa đổi hoặc xóa loại sự kiện hiện có?</string>
+    <string name="faq_6_text">Bạn có thể thực hiện cả hai điều đó trong Cài đặt ứng dụng - Quản lý loại sự kiện. Chỉ cần nhấp vào mục mong muốn để thay đổi nhãn và màu sắc, hoặc chọn mục mong muốn bằng cách nhấn và giữ nó và sử dụng thùng rác ở menu trên cùng để xóa.</string>
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
